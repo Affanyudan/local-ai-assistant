@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+.env.*
+!.env.example
+
+audit.log
+
+*.log
+
+.ai-assistant/
+
+ai_backup_*.py
+tools_v*_backup.py
+security_v*_backup.py
